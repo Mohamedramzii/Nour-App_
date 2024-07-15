@@ -1,2 +1,3 @@
-# Nour-App_
-Education App
+# Nour App - تطبيق نور
+
+An Education Application 
